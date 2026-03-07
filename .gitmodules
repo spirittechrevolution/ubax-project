@@ -1,0 +1,9 @@
+[submodule "ubax-platform"]
+	path = ubax-platform
+	url = ..\\git-repos\\ubax-platform.git
+[submodule "ubax-web"]
+	path = ubax-web
+	url = ..\\git-repos\\ubax-web.git
+[submodule "ubax-mobile"]
+	path = ubax-mobile
+	url = ..\\git-repos\\ubax-mobile.git
