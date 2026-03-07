@@ -1,0 +1,36 @@
+# Backend (Spring Boot)
+ubax-platform/target/
+ubax-platform/.project
+ubax-platform/.classpath
+ubax-platform/.settings/
+ubax-platform/*.iml
+ubax-platform/.idea/
+ubax-platform/bin/
+
+# Frontend (Angular)
+ubax-web/node_modules/
+ubax-web/dist/
+ubax-web/.angular/
+ubax-web/.vscode/
+ubax-web/*.iml
+ubax-web/.idea/
+
+# Mobile (Flutter)
+ubax-mobile/build/
+ubax-mobile/.dart_tool/
+ubax-mobile/.flutter-plugins
+ubax-mobile/.flutter-plugins-dependencies
+ubax-mobile/.packages
+ubax-mobile/pubspec.lock
+ubax-mobile/.idea/
+ubax-mobile/*.iml
+ubax-mobile/.vscode/
+
+# General
+.DS_Store
+*.log
+*.swp
+*.swo
+*~
+.env
+.env.local
