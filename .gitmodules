@@ -9,5 +9,5 @@
 	url = ..\\git-repos\\ubax-mobile.git
 [submodule "ubax-workspace"]
 	path = ubax-workspace
-	url = file:///c:/Users/snsowr/Desktop/Code/git-repos/ubax-workspace.git
+	url = https://github.com/RawaneG/ubax-workspace.git
 	branch = main
