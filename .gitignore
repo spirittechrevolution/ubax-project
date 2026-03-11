@@ -34,3 +34,7 @@ ubax-mobile/.vscode/
 *~
 .env
 .env.local
+
+# Workspace-level tooling artifacts
+.nx/
+instructions.md
